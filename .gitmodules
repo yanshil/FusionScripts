@@ -1,0 +1,6 @@
+[submodule "Joint2Graphviz"]
+	path = Joint2Graphviz
+	url = https://github.com/yanshil/Joint2Graphviz.git
+[submodule "Fusion2PyBullet"]
+	path = Fusion2PyBullet
+	url = https://github.com/yanshil/Fusion2PyBullet.git
